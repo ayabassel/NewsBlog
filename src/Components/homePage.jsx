@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 import NewsBlock from './newsBlock';
-import axios from "axios";
-import NavBar from './navbar';
 
 
 class HomePage extends Component {
